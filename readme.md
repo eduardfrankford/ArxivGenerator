@@ -26,7 +26,7 @@ The script performs the following steps:
 
 1. Place your LaTeX project in a directory named `paper`.
 2. Ensure your main LaTeX file is named `main.tex`.
-3. Save the script as `prepare_arxiv_upload.py`.
+3. Save the script as `arxiv.py`.
 4. Run the script:
    ```sh
    python3 arxiv.py
