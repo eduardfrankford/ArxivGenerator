@@ -29,4 +29,4 @@ The script performs the following steps:
 3. Save the script as `prepare_arxiv_upload.py`.
 4. Run the script:
    ```sh
-   python3 prepare_arxiv_upload.py
+   python3 arxiv.py
