@@ -2,6 +2,8 @@
 
 This script automates the process of preparing a LaTeX paper for upload to arXiv.org. It handles copying your paper directory, flattening the directory structure, cleaning up unnecessary files, compiling the LaTeX document, and creating a zip file for upload.
 
+This script follows the guidelines outlined in [Trevor Campbell's blog post](https://trevorcampbell.me/html/arxiv.html), ensuring your submission meets arXiv's requirements efficiently.
+
 ## Requirements
 
 - Python 3
